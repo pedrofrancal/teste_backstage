@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: my-api
-  description: API for my-service
+  name: Axway
+  description: Api Axway
 spec:
   type: openapi
   owner: e-gagcosta@neoris.com
