@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: my-api
+  description: API for my-service
+spec:
+  type: openapi
+  owner: e-gagcosta@neoris.com
+  lifecycle: experimental
+  definition:
+    $text: https://apidocs.axway.com/api_documentation/apimanager/7.7.0/api-manager-V_1_4-oas3.json
