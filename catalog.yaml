@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: GeovanaAxway
-  description: Api Axway Docs
+  description: Api1 Docs
 spec:
   type: openapi
   owner: e-gagcosta@neoris.com
