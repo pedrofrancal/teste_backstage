@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Axway_Docs
+  name: GeovanaAxway
   description: Api Axway Docs
 spec:
   type: openapi
